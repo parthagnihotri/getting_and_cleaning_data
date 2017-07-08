@@ -15,6 +15,9 @@
 #    average of each variable for each activity and each subject.
 # 6. Creates text file for the data set created in step 5.
 #
+# codeBook.md file has details about the tidyData dataset structure and variable 
+# description.
+#
 ########################################################################################
 
 
